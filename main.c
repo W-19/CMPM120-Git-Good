@@ -6,7 +6,8 @@
 
 int main(int argc, const char* argv[]){
 
-	printf("Moo\n");
+	int i = 24;
+	printf("i is %i", i);
 
 	return 0;
 }
