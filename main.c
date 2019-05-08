@@ -7,6 +7,7 @@
 int main(int argc, const char* argv[]){
 
 	int i = 24;
+	int j = 87;
 	printf("i is %i", i);
 
 	return 0;
